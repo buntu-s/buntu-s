@@ -9,7 +9,7 @@
 - 👨‍💻 My projects are available at https://medium.com/@bstuurmanct
 
 ### Get in Touch
-- 📫 bstuurmanct@gmail.com
+- 📫 **bstuurmanct@gmail.com**
 - [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/buntus_)
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/Buntu-Stuurman)
 
