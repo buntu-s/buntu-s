@@ -14,7 +14,7 @@
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/Buntu-Stuurman)
 
 ### My GitHub Stats
-[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)](https://github.com/yourusername)
+[![Buntu Stuurman;s Github Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)](https://github.com/yourusername)
 
 ### Technologies and Tools
 Here is a snippet of the technologies and tools I work with:
