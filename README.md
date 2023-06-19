@@ -3,7 +3,7 @@
 ##  AWS Certified Cloud Engineer, based in Cape Town (South Africa)
 
 - 🚀 I'm currently working on **AWS Projects and Coding Concepts/Projects.**
-- 💡 I'm constantly learning and improving my skills, I'm learning **Python** and working towards attaining the **AWS Developer Associate** certification.
+- 💡 I'm constantly learning and improving my skills, I'm learning **Python programming**
 - 👯 I'm looking to collaborate on **Anything AWS Cloud & DevOps related**
 - 📝 I regularly write articles on the implementation of the **AWS Cloud.**
 - 👨‍💻 My projects are available at https://medium.com/@bstuurmanct
