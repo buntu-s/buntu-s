@@ -4,7 +4,6 @@
 
 - 🚀 I'm currently working on **AWS Projects and Coding Concepts/Projects.**
 - 💡 I'm constantly learning and improving my skills.
-- 👯 I'm looking to collaborate on **Anything AWS Cloud related**
 - 📝 I regularly write articles on the implementation of the **AWS Cloud** on Medium.
 - 👨‍💻 My projects are available at https://medium.com/@bstuurmanct
 
