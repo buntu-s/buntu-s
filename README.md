@@ -1,8 +1,7 @@
 # Hello World!👋, I'm Buntu Stuurman
 
-##  AWS Certified Cloud Engineer, based in Cape Town (South Africa)
+##  AWS Certified Cloud Engineer and Software Engineering Student, based in Cape Town (South Africa)
 
-- 🚀 I'm currently working on **AWS Projects and Coding Concepts/Projects.**
 - 💡 I'm constantly learning and improving my skills.
 - 📝 I regularly write articles on the implementation of the **AWS Cloud** on Medium.
 - 👨‍💻 My projects are available at https://medium.com/@bstuurmanct
