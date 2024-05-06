@@ -15,10 +15,10 @@
 
 ### Technologies and Tools
 Here is a snippet of the technologies and tools I work with:
-- [AWS CLI](https://aws.amazon.com/cli/)
-- [AWS Cloudformation](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/Welcome.html)
-- [Amazon S3](https://aws.amazon.com/s3/)
-- [AWS LAMBDA](https://aws.amazon.com/lambda/)
+- Git, Gitlab & Github
+- Amazon Web Services (AWS)
+- Python
+- Java
 
 ### Let's Collaborate
 If you have an interesting project or idea you'd like to collaborate on, feel free to reach out. I'm always excited to work on innovative projects and contribute to the community!
