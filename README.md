@@ -1,6 +1,6 @@
 # Hello World!👋, I'm Buntu Stuurman
 
-## Junior Cloud Technologist at Cloudza, based in Cape Town (South Africa)
+## Solutions Architect at Cloudza, based in Cape Town (South Africa)
 
 - 💡 I'm constantly learning and improving my skills.
 - 📝 I regularly write articles on the implementation of the **AWS Cloud** on Medium(my own blog website is under construction).
