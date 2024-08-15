@@ -8,7 +8,7 @@
 
 ### Get in Touch
 - 📫 **bstuurmanct@gmail.com**
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/Buntu-Stuurman](https://www.linkedin.com/in/buntu-stuurman-288453277?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B5H27cEMDSByoJQ6EGoXKbQ%3D%3D))
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([[https://linkedin.com/Buntu-Stuurman](https://www.linkedin.com/in/buntu-stuurman-288453277?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B5H27cEMDSByoJQ6EGoXKbQ%3D%3D)](https://www.linkedin.com/in/buntu-stuurman-288453277/))
 
 ### Tools
 [![My Skills](https://skillicons.dev/icons?i=aws,azure,py,java,linux,git,gitlab,)](https://skillicons.dev)
