@@ -1,5 +1,5 @@
 # Hello World!👋, I'm Buntu Stuurman
-## Solutions Architect at Cloudza, in Cape Town (South Africa)
+## Solutions Architect at Cloudza, based in Cape Town (South Africa)
 
 - 💡 I'm constantly learning and improving my skills.
 - 📝 I regularly write articles on **Cloud** related things on Medium.
