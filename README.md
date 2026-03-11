@@ -1,4 +1,4 @@
-# Hello World!👋, I'm Buntu Stuurman
+# Hi, I'm Buntu Stuurman
 ### Get in Touch
 - 📫 **bstuurmanct@gmail.com**
 
