@@ -1,6 +1,4 @@
-# Hi, I'm Buntu Stuurman 🙋🏾‍♂️
-### Get in Touch
-- 📫 **bstuurmanct@gmail.com**
+# Hi, I'm Buntu 🙋🏾‍♂️
 
 ### Stack
 [![My Skills](https://skillicons.dev/icons?i=aws,azure,py,java,linux,git,gitlab,)](https://skillicons.dev)
